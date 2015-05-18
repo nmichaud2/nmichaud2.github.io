@@ -4,22 +4,23 @@
 	<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="viewport" content="initial-scale=1">
     <link href="angular-material/angular-material.min.css" rel="stylesheet">
+		<link href="main.css" rel="stylesheet">
 	</head>
 
 	<body ng-app="app">
     <div ng-controller="PlayerCtrl">
-			<div layout="row" layout-align="center start">
-				<div layout-padding class="md-whiteframe-z2">
-					<md-toolbar md-scroll-shrink>
-				    <div class="md-toolbar-tools">
-				      <h3>
-				        <span>Yobboyo's team salary</span>
-				      </h3>
-						</div>
-				  </md-toolbar>
-		      <md-content>
+			<md-toolbar md-scroll-shrink>
+		    <div class="md-toolbar-tools">
+		      <h3>
+		        <span>Yobboyo's team salary</span>
+		      </h3>
+				</div>
+		  </md-toolbar>
+			<div layout="row" layout-align="start start">
+				<md-whiteframe flex layout-padding class="md-whiteframe-z2 mainSection">
+			    <md-content layout-padding layout="column">
 						<p>Players to add</p>
 						<md-autocomplete
 							md-selected-item="selectedItem"
@@ -32,8 +33,8 @@
 								<span md-highlight-text="searchText" md-highlight-flags="^i">{{item.firstName}} {{item.lastName}}</span>
 							</md-item-template>
 						</md-autocomplete>
-		      </md-content>
-				</div>
+			    </md-content>
+				</md-whiteframe>
 			</div>
     </div>
 	</body>
