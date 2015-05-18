@@ -10,27 +10,42 @@
 
 	<body ng-app="app">
     <div ng-controller="PlayerCtrl">
-			<md-toolbar md-scroll-shrink>
-		    <div class="md-toolbar-tools">
-		      <h3>
-		        <span>Team salary</span>
-		      </h3>
+			<section layout="row" flex>
+				<md-sidenav class="md-sidenav-left md-whiteframe-z2" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')">
+		      <md-toolbar>
+		        <h1 class="md-toolbar-tools">Sidenav Left</h1>
+		      </md-toolbar>
+		      <md-content layout-padding>
+		        <p hide-md show-gt-md>
+		          This sidenav is locked open on your device. To go back to the default behavior,
+		          narrow your display.
+		        </p>
+		      </md-content>
+    		</md-sidenav>
+				<div class="md-whiteframe-z2">
+					<md-toolbar md-scroll-shrink>
+				    <div class="md-toolbar-tools">
+				      <h3>
+				        <span>Team salary</span>
+				      </h3>
+						</div>
+				  </md-toolbar>
+		      <md-content>
+						<p>Players to add</p>
+						<md-autocomplete
+							md-selected-item="selectedItem"
+							md-search-text="searchText"
+							md-items="item in querySearch(searchText)"
+							md-item-text="item.firstName"
+							md-min-length="0"
+							placeholder="Player name">
+							<md-item-template>
+								<span md-highlight-text="searchText" md-highlight-flags="^i">{{item.firstName}} {{item.lastName}}</span>
+							</md-item-template>
+						</md-autocomplete>
+		      </md-content>
 				</div>
-		  </md-toolbar>
-      <md-content>
-				<p>Players to add</p>
-				<md-autocomplete
-					md-selected-item="selectedItem"
-					md-search-text="searchText"
-					md-items="item in querySearch(searchText)"
-					md-item-text="item.firstName"
-					md-min-length="0"
-					placeholder="Player name">
-					<md-item-template>
-						<span md-highlight-text="searchText" md-highlight-flags="^i">{{item.firstName}} {{item.lastName}}</span>
-					</md-item-template>
-			</md-autocomplete>
-      </md-content>
+			</section>
     </div>
 	</body>
 
