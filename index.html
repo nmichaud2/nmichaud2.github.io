@@ -30,7 +30,7 @@
 							md-min-length="0"
 							placeholder="Player name">
 							<md-item-template>
-								<span md-highlight-text="searchText" md-highlight-flags="^i">{{item.firstName}} {{item.lastName}}</span>
+								<span md-highlight-text="searchText" md-highlight-flags="^i">{{item.firstName}} {{item.lastName}} - {{item.salary | currency:undefined:0}}</span>
 							</md-item-template>
 						</md-autocomplete>
 			    </md-content>
