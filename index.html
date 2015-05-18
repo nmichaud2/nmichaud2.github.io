@@ -1,1 +1,46 @@
-Hello World
+<!DOCTYPE html>
+<html>
+
+	<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="angular-material/angular-material.min.css" rel="stylesheet">
+	</head>
+
+	<body ng-app="app">
+    <div ng-controller="PlayerCtrl">
+			<md-toolbar md-scroll-shrink>
+		    <div class="md-toolbar-tools">
+		      <h3>
+		        <span>Team salary</span>
+		      </h3>
+				</div>
+		  </md-toolbar>
+      <md-content>
+				<p>Players to add</p>
+				<md-autocomplete
+					md-selected-item="selectedItem"
+					md-search-text="searchText"
+					md-items="item in querySearch(searchText)"
+					md-item-text="item.firstName"
+					md-min-length="0"
+					placeholder="Player name">
+					<md-item-template>
+						<span md-highlight-text="searchText" md-highlight-flags="^i">{{item.firstName}} {{item.lastName}}</span>
+					</md-item-template>
+			</md-autocomplete>
+      </md-content>
+    </div>
+	</body>
+
+  <script type="text/javascript" src="angular/angular.min.js"></script>
+  <script type="text/javascript" src="angular-animate/angular-animate.min.js"></script>
+  <script type="text/javascript" src="angular-aria/angular-aria.min.js"></script>
+  <script type="text/javascript" src="angular-material/angular-material.min.js"></script>
+	<script type="text/javascript" src="angular-resource/angular-resource.min.js"></script>
+
+	<script type="text/javascript" src="services/player.svc.js"></script>
+	<script type="text/javascript" src="nhl.app.js"></script>
+	<script type="text/javascript" src="controllers/nhl.ctrl.js"></script>
+</html>
