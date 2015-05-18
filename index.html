@@ -13,18 +13,22 @@
     <div ng-controller="PlayerCtrl">
 			<md-toolbar md-scroll-shrink>
 		    <div class="md-toolbar-tools">
+					<md-button id="dialogCloseButton" class="md-icon-button">
+						<md-icon md-svg-icon="navigation:ic_menu_24px"></md-icon>
+					</md-button>
 		      <h3>
-		        <span>Yobboyo's team salary</span>
+		        <span>Yobboyo's team</span>
 		      </h3>
 				</div>
 		  </md-toolbar>
 			<div layout="row" layout-align="start start">
-				<md-whiteframe flex layout-padding class="md-whiteframe-z2 mainSection">
+				<md-whiteframe layout-padding class="md-whiteframe-z2 mainSection">
 			    <md-content layout-padding layout="column">
 						<p>Players to add</p>
 						<md-autocomplete
 							md-selected-item="selectedItem"
 							md-search-text="searchText"
+							md-selected-item-change="selectedItemChange(item)"
 							md-items="item in querySearch(searchText)"
 							md-item-text="item.firstName"
 							md-min-length="0"
@@ -33,6 +37,73 @@
 								<span md-highlight-text="searchText" md-highlight-flags="^i">{{item.firstName}} {{item.lastName}} - {{item.salary | currency:undefined:0}}</span>
 							</md-item-template>
 						</md-autocomplete>
+
+						<div layout-gt-md="row" class="rosterSection" ng-show='rosterPlayers.length > 0'>
+							<div flex class="positionSection">
+								<div class="positionName">
+									<span>Left Wing</span>
+								</div>
+								<div layout="row" class="playerItem" ng-repeat="player in leftWingers">
+									<div class="playerImageContainer">
+										<img class="playerImage" ng-src="http://3.cdn.nhle.com/photos/mugs/{{player.id}}.jpg" border="0"/>
+									</div>
+									<div layout="column">
+										<span class="playerName">{{player.firstName}} {{player.lastName}}</span>
+										<span class="playerSalary">{{player.teamAbb}} - {{player.salary | currency:undefined:0}}</span>
+									</div>
+								</div>
+							</div>
+							<div flex class="positionSection">
+								<div class="positionName">
+									<span>Center</span>
+								</div>
+								<div layout="row" class="playerItem" ng-repeat="player in centers">
+									<div class="playerImageContainer">
+										<img class="playerImage" ng-src="http://3.cdn.nhle.com/photos/mugs/{{player.id}}.jpg" border="0"/>
+									</div>
+									<div layout="column">
+										<span class="playerName">{{player.firstName}} {{player.lastName}}</span>
+										<span class="playerSalary">{{player.teamAbb}} - {{player.salary | currency:undefined:0}}</span>
+									</div>
+								</div>
+							</div>
+							<div flex class="positionSection">
+								<div class="positionName">
+									<span>Right wing</span>
+								</div>
+								<div layout="row" class="playerItem" ng-repeat="player in rightWingers">
+									<div class="playerImageContainer">
+										<img class="playerImage" ng-src="http://3.cdn.nhle.com/photos/mugs/{{player.id}}.jpg" border="0"/>
+									</div>
+									<div layout="column">
+										<span class="playerName">{{player.firstName}} {{player.lastName}}</span>
+										<span class="playerSalary">{{player.teamAbb}} - {{player.salary | currency:undefined:0}}</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div layout-gt-md="row" class="rosterSection" ng-show='rosterPlayers.length > 0'>
+							<div flex class="positionSection">
+								<div class="positionName">
+									<span>Defense</span>
+								</div>
+								<div layout="row" class="playerItem" ng-repeat="player in defensemen">
+									<div class="playerImageContainer">
+										<img class="playerImage" ng-src="http://3.cdn.nhle.com/photos/mugs/{{player.id}}.jpg" border="0"/>
+									</div>
+									<div layout="column">
+										<span class="playerName">{{player.firstName}} {{player.lastName}}</span>
+										<span class="playerSalary">{{player.teamAbb}} - {{player.salary | currency:undefined:0}}</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div layout="row" layout-align="end start" class="buttonBar">
+							<md-button type="submit" class="md-raised md-accent" ng-disabled="hasErrors(patientForm)">Sauvegarder</md-button>
+						</div>
+
 			    </md-content>
 				</md-whiteframe>
 			</div>

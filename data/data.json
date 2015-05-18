@@ -1,0 +1,3899 @@
+[
+    {
+        "firstName": "Patrick", 
+        "id": "8474141", 
+        "lastName": "Kane", 
+        "position": 2, 
+        "salary": 13800000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Jonathan", 
+        "id": "8473604", 
+        "lastName": "Toews", 
+        "position": 1, 
+        "salary": 13800000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Patrick", 
+        "id": "8469544", 
+        "lastName": "Sharp", 
+        "position": 0, 
+        "salary": 5500000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Marian", 
+        "id": "8466148", 
+        "lastName": "Hossa", 
+        "position": 2, 
+        "salary": 7900000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Bryan", 
+        "id": "8471254", 
+        "lastName": "Bickell", 
+        "position": 0, 
+        "salary": 4500000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Kris", 
+        "id": "8471346", 
+        "lastName": "Versteeg", 
+        "position": 0, 
+        "salary": 4700000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Andrew", 
+        "id": "8476381", 
+        "lastName": "Shaw", 
+        "position": 1, 
+        "salary": 2500000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Brent", 
+        "id": "8470607", 
+        "lastName": "Seabrook", 
+        "position": 3, 
+        "salary": 5000000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Duncan", 
+        "id": "8470281", 
+        "lastName": "Keith", 
+        "position": 3, 
+        "salary": 7500000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Niklas", 
+        "id": "8471769", 
+        "lastName": "Hjalmarsson", 
+        "position": 3, 
+        "salary": 4200000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Corey", 
+        "id": "8470645", 
+        "lastName": "Crawford", 
+        "position": 4, 
+        "salary": 6500000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Antti", 
+        "id": "8477293", 
+        "lastName": "Raanta", 
+        "position": 4, 
+        "salary": 800000, 
+        "team": "Chicago Blackhawks", 
+        "teamAbb": "CHI"
+    }, 
+    {
+        "firstName": "Shane", 
+        "id": "8462038", 
+        "lastName": "Doan", 
+        "position": 2, 
+        "salary": 4550000, 
+        "team": "Arizona Coyotes", 
+        "teamAbb": "ARI"
+    }, 
+    {
+        "firstName": "Sam", 
+        "id": "8474040", 
+        "lastName": "Gagner", 
+        "position": 1, 
+        "salary": 5000000, 
+        "team": "Arizona Coyotes", 
+        "teamAbb": "ARI"
+    }, 
+    {
+        "firstName": "Martin", 
+        "id": "8471691", 
+        "lastName": "Hanzal", 
+        "position": 1, 
+        "salary": 3500000, 
+        "team": "Arizona Coyotes", 
+        "teamAbb": "ARI"
+    }, 
+    {
+        "firstName": "Lauri", 
+        "id": "8471232", 
+        "lastName": "Korpikoski", 
+        "position": 0, 
+        "salary": 2700000, 
+        "team": "Arizona Coyotes", 
+        "teamAbb": "ARI"
+    }, 
+    {
+        "firstName": "Joe", 
+        "id": "8471856", 
+        "lastName": "Vitale", 
+        "position": 1, 
+        "salary": 1100000, 
+        "team": "Arizona Coyotes", 
+        "teamAbb": "ARI"
+    }, 
+    {
+        "firstName": "Kyle", 
+        "id": "8471231", 
+        "lastName": "Chipchura", 
+        "position": 1, 
+        "salary": 950000, 
+        "team": "Arizona Coyotes", 
+        "teamAbb": "ARI"
+    }, 
+    {
+        "firstName": "Oliver", 
+        "id": "8475171", 
+        "lastName": "Ekman-Larsson", 
+        "position": 3, 
+        "salary": 6000000, 
+        "team": "Arizona Coyotes", 
+        "teamAbb": "ARI"
+    }, 
+    {
+        "firstName": "Michael", 
+        "id": "8474628", 
+        "lastName": "Stone", 
+        "position": 3, 
+        "salary": 1450000, 
+        "team": "Arizona Coyotes", 
+        "teamAbb": "ARI"
+    }, 
+    {
+        "firstName": "Mike", 
+        "id": "8469608", 
+        "lastName": "Smith", 
+        "position": 4, 
+        "salary": 6500000, 
+        "team": "Arizona Coyotes", 
+        "teamAbb": "ARI"
+    }, 
+    {
+        "firstName": "Keith", 
+        "id": "8471735", 
+        "lastName": "Yandle", 
+        "position": 3, 
+        "salary": 2625000, 
+        "team": "Arizona Coyotes", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Eric", 
+        "id": "8470595", 
+        "lastName": "Staal", 
+        "position": 1, 
+        "salary": 9500000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Alexander", 
+        "id": "8470120", 
+        "lastName": "Semin", 
+        "position": 2, 
+        "salary": 7000000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Jordan", 
+        "id": "8473533", 
+        "lastName": "Staal", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Jeff", 
+        "id": "8475784", 
+        "lastName": "Skinner", 
+        "position": 0, 
+        "salary": 6000000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Nathan", 
+        "id": "8471804", 
+        "lastName": "Gerbe", 
+        "position": 0, 
+        "salary": 2000000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Jay", 
+        "id": "8469508", 
+        "lastName": "McClement", 
+        "position": 1, 
+        "salary": 1300000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Brad", 
+        "id": "8474089", 
+        "lastName": "Malone", 
+        "position": 1, 
+        "salary": 700000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Justin", 
+        "id": "8475753", 
+        "lastName": "Faulk", 
+        "position": 3, 
+        "salary": 3500000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "John-Michael", 
+        "id": "8468639", 
+        "lastName": "Liles", 
+        "position": 3, 
+        "salary": 2750000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Ron", 
+        "id": "8468493", 
+        "lastName": "Hainsey", 
+        "position": 3, 
+        "salary": 3000000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Cam", 
+        "id": "8470320", 
+        "lastName": "Ward", 
+        "position": 4, 
+        "salary": 6800000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Anton", 
+        "id": "8471418", 
+        "lastName": "Khudobin", 
+        "position": 4, 
+        "salary": 2500000, 
+        "team": "Carolina Hurricanes", 
+        "teamAbb": "CAR"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8475168", 
+        "lastName": "Duchene", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "id": "8475158", 
+        "lastName": "O'Reilly", 
+        "position": 1, 
+        "salary": 6200000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Gabriel", 
+        "id": "8476455", 
+        "lastName": "Landeskog", 
+        "position": 0, 
+        "salary": 4500000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Jarome", 
+        "id": "8462042", 
+        "lastName": "Iginla", 
+        "position": 2, 
+        "salary": 5500000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Alex", 
+        "id": "8467338", 
+        "lastName": "Tanguay", 
+        "position": 0, 
+        "salary": 3500000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Jamie", 
+        "id": "8473465", 
+        "lastName": "McGinn", 
+        "position": 0, 
+        "salary": 3000000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "John", 
+        "id": "8470750", 
+        "lastName": "Mitchell", 
+        "position": 1, 
+        "salary": 1800000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Cody", 
+        "id": "8471657", 
+        "lastName": "McLeod", 
+        "position": 0, 
+        "salary": 1500000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Patrick", 
+        "id": "8471326", 
+        "lastName": "Bordeleau", 
+        "position": 0, 
+        "salary": 1000000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Jesse", 
+        "id": "8474498", 
+        "lastName": "Winchester", 
+        "position": 1, 
+        "salary": 900000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Marc-Andre", 
+        "id": "8471718", 
+        "lastName": "Cliche", 
+        "position": 1, 
+        "salary": 750000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Erik", 
+        "id": "8473446", 
+        "lastName": "Johnson", 
+        "position": 3, 
+        "salary": 4250000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Brad", 
+        "id": "8467331", 
+        "lastName": "Stuart", 
+        "position": 3, 
+        "salary": 3600000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Tyson", 
+        "id": "8475197", 
+        "lastName": "Barrie", 
+        "position": 3, 
+        "salary": 3200000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Nick", 
+        "id": "8474207", 
+        "lastName": "Holden", 
+        "position": 3, 
+        "salary": 1500000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Nate", 
+        "id": "8470317", 
+        "lastName": "Guenin", 
+        "position": 3, 
+        "salary": 850000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Zach", 
+        "id": "8474743", 
+        "lastName": "Redmond", 
+        "position": 3, 
+        "salary": 800000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Semyon", 
+        "id": "8473575", 
+        "lastName": "Varlamov", 
+        "position": 4, 
+        "salary": 6000000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Reto", 
+        "id": "8473499", 
+        "lastName": "Berra", 
+        "position": 4, 
+        "salary": 1450000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Maxime", 
+        "lastName": "Talbot", 
+        "salary": 875000, 
+        "team": "Colorado Avalanche"
+    }, 
+    {
+        "firstName": "Maxim", 
+        "id": "8474222", 
+        "lastName": "Noreau", 
+        "position": 3, 
+        "salary": 625000, 
+        "team": "Colorado Avalanche", 
+        "teamAbb": "COL"
+    }, 
+    {
+        "firstName": "Corey", 
+        "id": "8470621", 
+        "lastName": "Perry", 
+        "position": 2, 
+        "salary": 9000000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "id": "8470612", 
+        "lastName": "Getzlaf", 
+        "position": 1, 
+        "salary": 9250000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "id": "8470616", 
+        "lastName": "Kesler", 
+        "position": 1, 
+        "salary": 5000000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Andrew", 
+        "id": "8471699", 
+        "lastName": "Cogliano", 
+        "position": 0, 
+        "salary": 2900000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Patrick", 
+        "id": "8474034", 
+        "lastName": "Maroon", 
+        "position": 0, 
+        "salary": 1900000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Nate", 
+        "id": "8470775", 
+        "lastName": "Thompson", 
+        "position": 1, 
+        "salary": 1600000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Kyle", 
+        "id": "8475151", 
+        "lastName": "Palmieri", 
+        "position": 2, 
+        "salary": 1600000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Tim", 
+        "id": "8469490", 
+        "lastName": "Jackman", 
+        "position": 2, 
+        "salary": 700000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "James", 
+        "id": "8470222", 
+        "lastName": "Wisniewski", 
+        "position": 3, 
+        "salary": 5000000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Cam", 
+        "id": "8475764", 
+        "lastName": "Fowler", 
+        "position": 3, 
+        "salary": 4000000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Clayton", 
+        "id": "8470886", 
+        "lastName": "Stoner", 
+        "position": 3, 
+        "salary": 3250000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Mark", 
+        "id": "8471241", 
+        "lastName": "Fistric", 
+        "position": 3, 
+        "salary": 1200000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Sami", 
+        "id": "8475222", 
+        "lastName": "Vatanen", 
+        "position": 3, 
+        "salary": 1275000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Simon", 
+        "id": "8475155", 
+        "lastName": "Despres", 
+        "position": 3, 
+        "salary": 900000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Frederik", 
+        "id": "8475883", 
+        "lastName": "Andersen", 
+        "position": 4, 
+        "salary": 1300000, 
+        "team": "Anaheim Ducks", 
+        "teamAbb": "ANA"
+    }, 
+    {
+        "firstName": "Evander", 
+        "id": "8475169", 
+        "lastName": "Kane", 
+        "position": 0, 
+        "salary": 6000000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8470852", 
+        "lastName": "Moulson", 
+        "position": 0, 
+        "salary": 6000000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Tyler", 
+        "id": "8474589", 
+        "lastName": "Ennis", 
+        "position": 1, 
+        "salary": 4750000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Brian", 
+        "id": "8467407", 
+        "lastName": "Gionta", 
+        "position": 2, 
+        "salary": 4250000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Cody", 
+        "id": "8474570", 
+        "lastName": "Hodgson", 
+        "position": 1, 
+        "salary": 4000000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Marcus", 
+        "id": "8475220", 
+        "lastName": "Foligno", 
+        "position": 0, 
+        "salary": 2250000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Cody", 
+        "id": "8469591", 
+        "lastName": "McCormick", 
+        "position": 1, 
+        "salary": 1500000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Patrick", 
+        "id": "8471388", 
+        "lastName": "Kaleta", 
+        "position": 2, 
+        "salary": 1250000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Nicolas", 
+        "id": "8475235", 
+        "lastName": "Deslauriers", 
+        "position": 0, 
+        "salary": 650000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "David", 
+        "id": "8471276", 
+        "lastName": "Krejci", 
+        "position": 1, 
+        "salary": 7250000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Patrice", 
+        "id": "8470638", 
+        "lastName": "Bergeron", 
+        "position": 1, 
+        "salary": 8250000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Milan", 
+        "id": "8473473", 
+        "lastName": "Lucic", 
+        "position": 0, 
+        "salary": 6500000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Brad", 
+        "id": "8473419", 
+        "lastName": "Marchand", 
+        "position": 0, 
+        "salary": 4500000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Loui", 
+        "id": "8470626", 
+        "lastName": "Eriksson", 
+        "position": 2, 
+        "salary": 4500000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Marc", 
+        "id": "8462118", 
+        "lastName": "Savard", 
+        "position": 1, 
+        "salary": 525000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Reilly", 
+        "id": "8475191", 
+        "lastName": "Smith", 
+        "position": 2, 
+        "salary": 3350000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Chris", 
+        "id": "8467967", 
+        "lastName": "Kelly", 
+        "position": 1, 
+        "salary": 2500000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Maxime", 
+        "lastName": "Talbot", 
+        "salary": 1000000, 
+        "team": "Boston Bruins"
+    }, 
+    {
+        "firstName": "Jiri", 
+        "id": "8470201", 
+        "lastName": "Hudler", 
+        "position": 1, 
+        "salary": 4000000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "David", 
+        "id": "8470877", 
+        "lastName": "Jones", 
+        "position": 2, 
+        "salary": 4000000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Mason", 
+        "id": "8471664", 
+        "lastName": "Raymond", 
+        "position": 0, 
+        "salary": 3150000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8470162", 
+        "lastName": "Stajan", 
+        "position": 1, 
+        "salary": 3375000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Joe", 
+        "id": "8474577", 
+        "lastName": "Colborne", 
+        "position": 1, 
+        "salary": 1275000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Brandon", 
+        "lastName": "Dubinsky", 
+        "salary": 5850000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Nick", 
+        "lastName": "Foligno", 
+        "salary": 5500000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "David", 
+        "lastName": "Clarkson", 
+        "salary": 5500000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Scott", 
+        "lastName": "Hartnell", 
+        "salary": 5000000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "lastName": "Johansen", 
+        "salary": 3000000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Cam", 
+        "lastName": "Atkinson", 
+        "salary": 2500000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Rene", 
+        "lastName": "Bourque", 
+        "salary": 2500000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Artem", 
+        "lastName": "Anisimov", 
+        "salary": 4000000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Zach", 
+        "id": "8474567", 
+        "lastName": "Bogosian", 
+        "position": 3, 
+        "salary": 5250000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Josh", 
+        "id": "8470324", 
+        "lastName": "Gorges", 
+        "position": 3, 
+        "salary": 3900000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Mike", 
+        "id": "8473426", 
+        "lastName": "Weber", 
+        "position": 3, 
+        "salary": 2000000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Chad", 
+        "id": "8473434", 
+        "lastName": "Johnson", 
+        "position": 4, 
+        "salary": 1600000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Chad", 
+        "id": "8477244", 
+        "lastName": "Ruhwedel", 
+        "position": 3, 
+        "salary": 675000, 
+        "team": "Buffalo Sabres", 
+        "teamAbb": "BUF"
+    }, 
+    {
+        "firstName": "Zdeno", 
+        "id": "8465009", 
+        "lastName": "Chara", 
+        "position": 3, 
+        "salary": 7000000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Dennis", 
+        "id": "8469619", 
+        "lastName": "Seidenberg", 
+        "position": 3, 
+        "salary": 4500000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Torey", 
+        "id": "8476792", 
+        "lastName": "Krug", 
+        "position": 3, 
+        "salary": 3400000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Kevan", 
+        "id": "8476191", 
+        "lastName": "Miller", 
+        "position": 3, 
+        "salary": 850000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Tuukka", 
+        "id": "8471695", 
+        "lastName": "Rask", 
+        "position": 4, 
+        "salary": 7500000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Zach", 
+        "id": "8475902", 
+        "lastName": "Trotman", 
+        "position": 3, 
+        "salary": 650000, 
+        "team": "Boston Bruins", 
+        "teamAbb": "BOS"
+    }, 
+    {
+        "firstName": "Brandon", 
+        "id": "8475650", 
+        "lastName": "Bollig", 
+        "position": 0, 
+        "salary": 1300000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Dennis", 
+        "id": "8469770", 
+        "lastName": "Wideman", 
+        "position": 3, 
+        "salary": 5250000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "T.J.", 
+        "lastName": "Brodie", 
+        "salary": 3900000, 
+        "team": "Calgary Flames"
+    }, 
+    {
+        "firstName": "Mark", 
+        "id": "8470966", 
+        "lastName": "Giordano", 
+        "position": 3, 
+        "salary": 4000000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Ladislav", 
+        "id": "8471222", 
+        "lastName": "Smid", 
+        "position": 3, 
+        "salary": 3750000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Deryk", 
+        "id": "8468674", 
+        "lastName": "Engelland", 
+        "position": 3, 
+        "salary": 3000000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Kris", 
+        "id": "8471729", 
+        "lastName": "Russell", 
+        "position": 3, 
+        "salary": 2600000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Jonas", 
+        "id": "8473972", 
+        "lastName": "Hiller", 
+        "position": 4, 
+        "salary": 4500000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Joni", 
+        "id": "8475299", 
+        "lastName": "Ortio", 
+        "position": 4, 
+        "salary": 600000, 
+        "team": "Calgary Flames", 
+        "teamAbb": "CGY"
+    }, 
+    {
+        "firstName": "Jared", 
+        "lastName": "Boll", 
+        "salary": 1700000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Jeremy", 
+        "lastName": "Morin", 
+        "salary": 900000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Corey", 
+        "lastName": "Tropp", 
+        "salary": 625000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Fedor", 
+        "lastName": "Tyutin", 
+        "salary": 5000000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Jack", 
+        "lastName": "Johnson", 
+        "salary": 5000000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "David", 
+        "lastName": "Savard", 
+        "salary": 1300000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Dalton", 
+        "lastName": "Prout", 
+        "salary": 1100000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Kevin", 
+        "lastName": "Connauton", 
+        "salary": 800000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Sergei", 
+        "lastName": "Bobrovsky", 
+        "salary": 8500000, 
+        "team": "Columbus Blue Jackets"
+    }, 
+    {
+        "firstName": "Jordan", 
+        "id": "8474586", 
+        "lastName": "Eberle", 
+        "position": 2, 
+        "salary": 6000000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Taylor", 
+        "id": "8475791", 
+        "lastName": "Hall", 
+        "position": 0, 
+        "salary": 6000000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "id": "8476454", 
+        "lastName": "Nugent-Hopkins", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Teddy", 
+        "id": "8473962", 
+        "lastName": "Purcell", 
+        "position": 2, 
+        "salary": 4500000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Benoit", 
+        "id": "8471678", 
+        "lastName": "Pouliot", 
+        "position": 0, 
+        "salary": 4000000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Boyd", 
+        "id": "8470159", 
+        "lastName": "Gordon", 
+        "position": 1, 
+        "salary": 3000000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Nail", 
+        "id": "8476855", 
+        "lastName": "Yakupov", 
+        "position": 2, 
+        "salary": 2500000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8468611", 
+        "lastName": "Hendricks", 
+        "position": 0, 
+        "salary": 1850000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Jason", 
+        "id": "8469455", 
+        "lastName": "Spezza", 
+        "position": 1, 
+        "salary": 7500000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Tyler", 
+        "id": "8475794", 
+        "lastName": "Seguin", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Jamie", 
+        "id": "8473994", 
+        "lastName": "Benn", 
+        "position": 0, 
+        "salary": 5750000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Ales", 
+        "id": "8469466", 
+        "lastName": "Hemsky", 
+        "position": 2, 
+        "salary": 4000000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Antoine", 
+        "id": "8474849", 
+        "lastName": "Roussel", 
+        "position": 0, 
+        "salary": 1800000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Cody", 
+        "id": "8475236", 
+        "lastName": "Eakin", 
+        "position": 1, 
+        "salary": 2300000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Travis", 
+        "id": "8468635", 
+        "lastName": "Moen", 
+        "position": 0, 
+        "salary": 1850000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "id": "8476116", 
+        "lastName": "Garbutt", 
+        "position": 0, 
+        "salary": 1800000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Vernon", 
+        "id": "8469759", 
+        "lastName": "Fiddler", 
+        "position": 1, 
+        "salary": 1500000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Pavel", 
+        "id": "8467514", 
+        "lastName": "Datsyuk", 
+        "position": 1, 
+        "salary": 7500000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Henrik", 
+        "id": "8468083", 
+        "lastName": "Zetterberg", 
+        "position": 0, 
+        "salary": 7500000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Stephen", 
+        "id": "8469457", 
+        "lastName": "Weiss", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Johan", 
+        "id": "8471309", 
+        "lastName": "Franzen", 
+        "position": 2, 
+        "salary": 5000000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Tomas", 
+        "id": "8475193", 
+        "lastName": "Tatar", 
+        "position": 0, 
+        "salary": 2750000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Darren", 
+        "id": "8471794", 
+        "lastName": "Helm", 
+        "position": 1, 
+        "salary": 2500000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Justin", 
+        "id": "8471716", 
+        "lastName": "Abdelkader", 
+        "position": 0, 
+        "salary": 2250000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Drew", 
+        "id": "8470778", 
+        "lastName": "Miller", 
+        "position": 0, 
+        "salary": 1350000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Anton", 
+        "id": "8475165", 
+        "lastName": "Lander", 
+        "position": 1, 
+        "salary": 925000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Luke", 
+        "id": "8473989", 
+        "lastName": "Gazdic", 
+        "position": 0, 
+        "salary": 850000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Rob", 
+        "id": "8473970", 
+        "lastName": "Klinkhammer", 
+        "position": 0, 
+        "salary": 725000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Nikita", 
+        "id": "8471348", 
+        "lastName": "Nikitin", 
+        "position": 3, 
+        "salary": 4500000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Mark", 
+        "id": "8471816", 
+        "lastName": "Fayne", 
+        "position": 3, 
+        "salary": 3500000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Andrew", 
+        "id": "8466333", 
+        "lastName": "Ference", 
+        "position": 3, 
+        "salary": 3750000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Ben", 
+        "id": "8475681", 
+        "lastName": "Scrivens", 
+        "position": 4, 
+        "salary": 2300000, 
+        "team": "Edmonton Oilers", 
+        "teamAbb": "EDM"
+    }, 
+    {
+        "firstName": "Colton", 
+        "id": "8474098", 
+        "lastName": "Sceviour", 
+        "position": 1, 
+        "salary": 700000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Alex", 
+        "id": "8471274", 
+        "lastName": "Goligoski", 
+        "position": 3, 
+        "salary": 4800000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Trevor", 
+        "id": "8470110", 
+        "lastName": "Daley", 
+        "position": 3, 
+        "salary": 3100000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Jason", 
+        "id": "8474218", 
+        "lastName": "Demers", 
+        "position": 3, 
+        "salary": 3650000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Jordie", 
+        "id": "8474818", 
+        "lastName": "Benn", 
+        "position": 3, 
+        "salary": 850000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Kari", 
+        "id": "8470140", 
+        "lastName": "Lehtonen", 
+        "position": 4, 
+        "salary": 6000000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Jussi", 
+        "id": "8475680", 
+        "lastName": "Rynnas", 
+        "position": 4, 
+        "salary": 575000, 
+        "team": "Dallas Stars", 
+        "teamAbb": "DAL"
+    }, 
+    {
+        "firstName": "Riley", 
+        "id": "8475772", 
+        "lastName": "Sheahan", 
+        "position": 1, 
+        "salary": 1050000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Luke", 
+        "id": "8476822", 
+        "lastName": "Glendening", 
+        "position": 1, 
+        "salary": 600000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Niklas", 
+        "id": "8468509", 
+        "lastName": "Kronwall", 
+        "position": 3, 
+        "salary": 6000000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Jonathan", 
+        "id": "8470318", 
+        "lastName": "Ericsson", 
+        "position": 3, 
+        "salary": 4250000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Kyle", 
+        "id": "8470724", 
+        "lastName": "Quincey", 
+        "position": 3, 
+        "salary": 4250000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Jakub", 
+        "id": "8471693", 
+        "lastName": "Kindl", 
+        "position": 3, 
+        "salary": 2500000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Danny", 
+        "id": "8477215", 
+        "lastName": "DeKeyser", 
+        "position": 3, 
+        "salary": 2250000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Brian", 
+        "id": "8474873", 
+        "lastName": "Lashoff", 
+        "position": 3, 
+        "salary": 850000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "Jimmy", 
+        "id": "8470657", 
+        "lastName": "Howard", 
+        "position": 4, 
+        "salary": 5500000, 
+        "team": "Detroit Red Wings", 
+        "teamAbb": "DET"
+    }, 
+    {
+        "firstName": "James", 
+        "lastName": "Neal", 
+        "salary": 5000000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Paul", 
+        "lastName": "Gaustad", 
+        "salary": 3000000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Viktor", 
+        "lastName": "Stalberg", 
+        "salary": 3500000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Eric", 
+        "lastName": "Nystrom", 
+        "salary": 3000000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Shea", 
+        "lastName": "Weber", 
+        "salary": 14000000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Roman", 
+        "lastName": "Josi", 
+        "salary": 4000000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "lastName": "Ellis", 
+        "salary": 2000000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Mattias", 
+        "lastName": "Ekholm", 
+        "salary": 1038000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Victor", 
+        "lastName": "Bartley", 
+        "salary": 800000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Pekka", 
+        "lastName": "Rinne", 
+        "salary": 7000000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Carter", 
+        "lastName": "Hutton", 
+        "salary": 750000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Rich", 
+        "lastName": "Clune", 
+        "salary": 850000, 
+        "team": "Nashville Predators"
+    }, 
+    {
+        "firstName": "Anze", 
+        "id": "8471685", 
+        "lastName": "Kopitar", 
+        "position": 1, 
+        "salary": 7700000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Dustin", 
+        "id": "8470606", 
+        "lastName": "Brown", 
+        "position": 2, 
+        "salary": 7250000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Mike", 
+        "id": "8470617", 
+        "lastName": "Richards", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Jeff", 
+        "id": "8470604", 
+        "lastName": "Carter", 
+        "position": 1, 
+        "salary": 7000000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Marian", 
+        "id": "8468483", 
+        "lastName": "Gaborik", 
+        "position": 2, 
+        "salary": 6075000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Dwight", 
+        "id": "8474100", 
+        "lastName": "King", 
+        "position": 0, 
+        "salary": 2000000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Kyle", 
+        "id": "8475160", 
+        "lastName": "Clifford", 
+        "position": 0, 
+        "salary": 1350000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Trevor", 
+        "id": "8473453", 
+        "lastName": "Lewis", 
+        "position": 1, 
+        "salary": 1550000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Tanner", 
+        "id": "8476871", 
+        "lastName": "Pearson", 
+        "position": 0, 
+        "salary": 1250000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Zach", 
+        "id": "8470610", 
+        "lastName": "Parise", 
+        "position": 0, 
+        "salary": 9000000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Mikko", 
+        "id": "8469459", 
+        "lastName": "Koivu", 
+        "position": 1, 
+        "salary": 7290000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Thomas", 
+        "id": "8470598", 
+        "lastName": "Vanek", 
+        "position": 0, 
+        "salary": 6500000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Jason", 
+        "id": "8469506", 
+        "lastName": "Pominville", 
+        "position": 2, 
+        "salary": 5750000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Charlie", 
+        "id": "8475745", 
+        "lastName": "Coyle", 
+        "position": 1, 
+        "salary": 1900000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Nino", 
+        "id": "8475799", 
+        "lastName": "Niederreiter", 
+        "position": 2, 
+        "salary": 2600000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8465951", 
+        "lastName": "Cooke", 
+        "position": 0, 
+        "salary": 3000000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Justin", 
+        "id": "8476235", 
+        "lastName": "Fontaine", 
+        "position": 2, 
+        "salary": 1050000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Jordan", 
+        "id": "8475325", 
+        "lastName": "Nolan", 
+        "position": 1, 
+        "salary": 850000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Drew", 
+        "id": "8474563", 
+        "lastName": "Doughty", 
+        "position": 3, 
+        "salary": 7100000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Slava", 
+        "id": "8474594", 
+        "lastName": "Voynov", 
+        "position": 3, 
+        "salary": 4200000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Alec", 
+        "id": "8474166", 
+        "lastName": "Martinez", 
+        "position": 3, 
+        "salary": 3900000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Jake", 
+        "id": "8474162", 
+        "lastName": "Muzzin", 
+        "position": 3, 
+        "salary": 3000000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8470121", 
+        "lastName": "Greene", 
+        "position": 3, 
+        "salary": 2500000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Brayden", 
+        "id": "8475188", 
+        "lastName": "McNabb", 
+        "position": 3, 
+        "salary": 675000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Jonathan", 
+        "id": "8471734", 
+        "lastName": "Quick", 
+        "position": 4, 
+        "salary": 7000000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Jeff", 
+        "id": "8471240", 
+        "lastName": "Schultz", 
+        "position": 3, 
+        "salary": 850000, 
+        "team": "Los Angeles Kings", 
+        "teamAbb": "LAK"
+    }, 
+    {
+        "firstName": "Jason", 
+        "id": "8475722", 
+        "lastName": "Zucker", 
+        "position": 0, 
+        "salary": 950000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "id": "8470600", 
+        "lastName": "Suter", 
+        "position": 3, 
+        "salary": 9000000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Jonas", 
+        "id": "8476463", 
+        "lastName": "Brodin", 
+        "position": 3, 
+        "salary": 2500000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Marco", 
+        "id": "8474618", 
+        "lastName": "Scandella", 
+        "position": 3, 
+        "salary": 3000000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Jared", 
+        "id": "8474716", 
+        "lastName": "Spurgeon", 
+        "position": 3, 
+        "salary": 3600000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Niklas", 
+        "id": "8473404", 
+        "lastName": "Backstrom", 
+        "position": 4, 
+        "salary": 4000000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Darcy", 
+        "id": "8475311", 
+        "lastName": "Kuemper", 
+        "position": 4, 
+        "salary": 1500000, 
+        "team": "Minnesota Wild", 
+        "teamAbb": "MIN"
+    }, 
+    {
+        "firstName": "Tomas", 
+        "id": "8469521", 
+        "lastName": "Plekanec", 
+        "position": 1, 
+        "salary": 5000000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Max", 
+        "id": "8474157", 
+        "lastName": "Pacioretty", 
+        "position": 0, 
+        "salary": 4000000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Pierre-Alexandre", 
+        "id": "8469707", 
+        "lastName": "Parenteau", 
+        "position": 2, 
+        "salary": 4000000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Brendan", 
+        "id": "8475848", 
+        "lastName": "Gallagher", 
+        "position": 2, 
+        "salary": 5500000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "David", 
+        "id": "8471976", 
+        "lastName": "Desharnais", 
+        "position": 1, 
+        "salary": 3500000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Lars", 
+        "id": "8474189", 
+        "lastName": "Eller", 
+        "position": 1, 
+        "salary": 2500000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Brandon", 
+        "id": "8471283", 
+        "lastName": "Prust", 
+        "position": 0, 
+        "salary": 2000000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Dale", 
+        "id": "8474668", 
+        "lastName": "Weise", 
+        "position": 2, 
+        "salary": 1025000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Devante", 
+        "id": "8475758", 
+        "lastName": "Smith-Pelly", 
+        "position": 2, 
+        "salary": 800000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "P.K.", 
+        "id": "8474056", 
+        "lastName": "Subban", 
+        "position": 3, 
+        "salary": 7000000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Andrei", 
+        "id": "8467496", 
+        "lastName": "Markov", 
+        "position": 3, 
+        "salary": 6000000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Alexei", 
+        "id": "8471296", 
+        "lastName": "Emelin", 
+        "position": 3, 
+        "salary": 3900000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Tom", 
+        "id": "8470104", 
+        "lastName": "Gilbert", 
+        "position": 3, 
+        "salary": 2800000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Carey", 
+        "id": "8471679", 
+        "lastName": "Price", 
+        "position": 4, 
+        "salary": 7000000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Dustin", 
+        "id": "8474682", 
+        "lastName": "Tokarski", 
+        "position": 4, 
+        "salary": 575000, 
+        "team": "Montreal Canadiens", 
+        "teamAbb": "MTL"
+    }, 
+    {
+        "firstName": "Dave", 
+        "id": "8471245", 
+        "lastName": "Bolland", 
+        "position": 1, 
+        "salary": 5500000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Jaromir", 
+        "id": "8448208", 
+        "lastName": "Jagr", 
+        "position": 2, 
+        "salary": 3500000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Nick", 
+        "id": "8475760", 
+        "lastName": "Bjugstad", 
+        "position": 1, 
+        "salary": 2850000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Jussi", 
+        "id": "8469638", 
+        "lastName": "Jokinen", 
+        "position": 0, 
+        "salary": 4000000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Brad", 
+        "id": "8468504", 
+        "lastName": "Boyes", 
+        "position": 2, 
+        "salary": 2500000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Derek", 
+        "id": "8468001", 
+        "lastName": "MacKenzie", 
+        "position": 1, 
+        "salary": 1300000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Shawn", 
+        "id": "8465978", 
+        "lastName": "Thornton", 
+        "position": 0, 
+        "salary": 1200000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Brandon", 
+        "id": "8475204", 
+        "lastName": "Pirri", 
+        "position": 1, 
+        "salary": 975000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Brian", 
+        "id": "8466285", 
+        "lastName": "Campbell", 
+        "position": 3, 
+        "salary": 7140000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Dmitry", 
+        "id": "8475179", 
+        "lastName": "Kulikov", 
+        "position": 3, 
+        "salary": 4500000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Willie", 
+        "id": "8465185", 
+        "lastName": "Mitchell", 
+        "position": 3, 
+        "salary": 4250000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Erik", 
+        "id": "8475790", 
+        "lastName": "Gudbranson", 
+        "position": 3, 
+        "salary": 2750000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Dylan", 
+        "id": "8475153", 
+        "lastName": "Olsen", 
+        "position": 3, 
+        "salary": 850000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Roberto", 
+        "id": "8466141", 
+        "lastName": "Luongo", 
+        "position": 4, 
+        "salary": 6714000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Al", 
+        "id": "8471219", 
+        "lastName": "Montoya", 
+        "position": 4, 
+        "salary": 1100000, 
+        "team": "Florida Panthers", 
+        "teamAbb": "FLA"
+    }, 
+    {
+        "firstName": "Travis", 
+        "id": "8471233", 
+        "lastName": "Zajac", 
+        "position": 1, 
+        "salary": 6500000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Patrik", 
+        "id": "8460542", 
+        "lastName": "Elias", 
+        "position": 1, 
+        "salary": 5500000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Mike", 
+        "id": "8469500", 
+        "lastName": "Cammalleri", 
+        "position": 0, 
+        "salary": 5000000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Ryane", 
+        "id": "8469622", 
+        "lastName": "Clowe", 
+        "position": 0, 
+        "salary": 4850000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Adam", 
+        "id": "8474641", 
+        "lastName": "Henrique", 
+        "position": 1, 
+        "salary": 4000000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Tuomo", 
+        "id": "8469462", 
+        "lastName": "Ruutu", 
+        "position": 0, 
+        "salary": 5000000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Dainius", 
+        "id": "8464977", 
+        "lastName": "Zubrus", 
+        "position": 0, 
+        "salary": 3100000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Stephen", 
+        "id": "8472410", 
+        "lastName": "Gionta", 
+        "position": 1, 
+        "salary": 850000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Jordin", 
+        "id": "8469547", 
+        "lastName": "Tootoo", 
+        "position": 2, 
+        "salary": 825000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Jacob", 
+        "id": "8475185", 
+        "lastName": "Josefson", 
+        "position": 1, 
+        "salary": 800000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Andy", 
+        "id": "8472382", 
+        "lastName": "Greene", 
+        "position": 3, 
+        "salary": 5000000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Cory", 
+        "id": "8471239", 
+        "lastName": "Schneider", 
+        "position": 4, 
+        "salary": 6000000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Keith", 
+        "id": "8476234", 
+        "lastName": "Kinkaid", 
+        "position": 4, 
+        "salary": 700000, 
+        "team": "New Jersey Devils", 
+        "teamAbb": "NJD"
+    }, 
+    {
+        "firstName": "Joe", 
+        "id": "8466138", 
+        "lastName": "Thornton", 
+        "position": 1, 
+        "salary": 6750000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Patrick", 
+        "id": "8466139", 
+        "lastName": "Marleau", 
+        "position": 0, 
+        "salary": 6500000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Logan", 
+        "id": "8474053", 
+        "lastName": "Couture", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Joe", 
+        "id": "8470794", 
+        "lastName": "Pavelski", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Tommy", 
+        "id": "8474739", 
+        "lastName": "Wingels", 
+        "position": 1, 
+        "salary": 2475000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Raffi", 
+        "id": "8468485", 
+        "lastName": "Torres", 
+        "position": 0, 
+        "salary": 2125000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Ben", 
+        "id": "8474727", 
+        "lastName": "Smith", 
+        "position": 2, 
+        "salary": 1500000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Mike", 
+        "id": "8471371", 
+        "lastName": "Brown", 
+        "position": 2, 
+        "salary": 1250000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Brent", 
+        "id": "8470613", 
+        "lastName": "Burns", 
+        "position": 3, 
+        "salary": 5760000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Marc-Edouard", 
+        "id": "8471709", 
+        "lastName": "Vlasic", 
+        "position": 3, 
+        "salary": 4250000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Justin", 
+        "id": "8474027", 
+        "lastName": "Braun", 
+        "position": 3, 
+        "salary": 3800000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Alex", 
+        "id": "8471774", 
+        "lastName": "Stalock", 
+        "position": 4, 
+        "salary": 1700000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Adam", 
+        "id": "8470063", 
+        "lastName": "Burish", 
+        "position": 2, 
+        "salary": 1850000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8476807", 
+        "lastName": "Tennyson", 
+        "position": 3, 
+        "salary": 625000, 
+        "team": "San Jose Sharks", 
+        "teamAbb": "SJS"
+    }, 
+    {
+        "firstName": "Rick", 
+        "id": "8470041", 
+        "lastName": "Nash", 
+        "position": 0, 
+        "salary": 7900000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Derick", 
+        "id": "8473544", 
+        "lastName": "Brassard", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Mats", 
+        "id": "8475692", 
+        "lastName": "Zuccarello", 
+        "position": 2, 
+        "salary": 4500000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Chris", 
+        "id": "8475184", 
+        "lastName": "Kreider", 
+        "position": 0, 
+        "salary": 2600000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Dominic", 
+        "id": "8468575", 
+        "lastName": "Moore", 
+        "position": 1, 
+        "salary": 1500000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Tanner", 
+        "id": "8470854", 
+        "lastName": "Glass", 
+        "position": 0, 
+        "salary": 1450000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Marc", 
+        "id": "8471686", 
+        "lastName": "Staal", 
+        "position": 3, 
+        "salary": 7000000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Daniel", 
+        "lastName": "Girardi", 
+        "salary": 7000000, 
+        "team": "New York Rangers"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "id": "8474151", 
+        "lastName": "McDonagh", 
+        "position": 3, 
+        "salary": 4500000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Dan", 
+        "id": "8467096", 
+        "lastName": "Boyle", 
+        "position": 3, 
+        "salary": 4500000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Kevin", 
+        "id": "8470630", 
+        "lastName": "Klein", 
+        "position": 3, 
+        "salary": 3000000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Keith", 
+        "id": "8471735", 
+        "lastName": "Yandle", 
+        "position": 3, 
+        "salary": 5750000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Henrik", 
+        "id": "8468685", 
+        "lastName": "Lundqvist", 
+        "position": 4, 
+        "salary": 10000000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Cam", 
+        "id": "8475660", 
+        "lastName": "Talbot", 
+        "position": 4, 
+        "salary": 1450000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Chris", 
+        "id": "8473589", 
+        "lastName": "Summers", 
+        "position": 3, 
+        "salary": 625000, 
+        "team": "New York Rangers", 
+        "teamAbb": "NYR"
+    }, 
+    {
+        "firstName": "Claude", 
+        "id": "8473512", 
+        "lastName": "Giroux", 
+        "position": 1, 
+        "salary": 9000000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "R.J.", 
+        "id": "8469469", 
+        "lastName": "Umberger", 
+        "position": 1, 
+        "salary": 4500000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Vincent", 
+        "id": "8467329", 
+        "lastName": "Lecavalier", 
+        "position": 1, 
+        "salary": 4500000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Jakub", 
+        "id": "8474161", 
+        "lastName": "Voracek", 
+        "position": 2, 
+        "salary": 4500000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Wayne", 
+        "id": "8474190", 
+        "lastName": "Simmonds", 
+        "position": 2, 
+        "salary": 3800000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8476177", 
+        "lastName": "Read", 
+        "position": 2, 
+        "salary": 4000000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Brayden", 
+        "id": "8475170", 
+        "lastName": "Schenn", 
+        "position": 1, 
+        "salary": 2750000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Sean", 
+        "id": "8476461", 
+        "lastName": "Couturier", 
+        "position": 1, 
+        "salary": 2000000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Michael", 
+        "id": "8477290", 
+        "lastName": "Raffl", 
+        "position": 0, 
+        "salary": 1200000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Steven", 
+        "id": "8474564", 
+        "lastName": "Stamkos", 
+        "position": 1, 
+        "salary": 5500000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "id": "8471339", 
+        "lastName": "Callahan", 
+        "position": 2, 
+        "salary": 6400000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Valtteri", 
+        "id": "8470047", 
+        "lastName": "Filppula", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Tyler", 
+        "id": "8474870", 
+        "lastName": "Johnson", 
+        "position": 1, 
+        "salary": 3200000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Ondrej", 
+        "id": "8476292", 
+        "lastName": "Palat", 
+        "position": 0, 
+        "salary": 3200000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Alex", 
+        "id": "8473986", 
+        "lastName": "Killorn", 
+        "position": 1, 
+        "salary": 2700000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Brian", 
+        "id": "8470619", 
+        "lastName": "Boyle", 
+        "position": 1, 
+        "salary": 2000000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "J.T.", 
+        "id": "8476806", 
+        "lastName": "Brown", 
+        "position": 2, 
+        "salary": 975000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Matthew", 
+        "id": "8470640", 
+        "lastName": "Carle", 
+        "position": 3, 
+        "salary": 5500000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Zac", 
+        "id": "8474736", 
+        "lastName": "Rinaldo", 
+        "position": 1, 
+        "salary": 850000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Pierre-Edouard", 
+        "id": "8477930", 
+        "lastName": "Bellemare", 
+        "position": 0, 
+        "salary": 700000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Mark", 
+        "id": "8468309", 
+        "lastName": "Streit", 
+        "position": 3, 
+        "salary": 5750000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Andrew", 
+        "id": "8473584", 
+        "lastName": "MacDonald", 
+        "position": 3, 
+        "salary": 4500000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Chris", 
+        "id": "8459424", 
+        "lastName": "Pronger", 
+        "position": 3, 
+        "salary": 525000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Luke", 
+        "id": "8474568", 
+        "lastName": "Schenn", 
+        "position": 3, 
+        "salary": 3350000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Nicklas", 
+        "id": "8471269", 
+        "lastName": "Grossmann", 
+        "position": 3, 
+        "salary": 3500000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Nick", 
+        "id": "8468513", 
+        "lastName": "Schultz", 
+        "position": 3, 
+        "salary": 2250000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Radko", 
+        "id": "8475462", 
+        "lastName": "Gudas", 
+        "position": 3, 
+        "salary": 1400000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Brandon", 
+        "id": "8475430", 
+        "lastName": "Manning", 
+        "position": 3, 
+        "salary": 625000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Steve", 
+        "id": "8473461", 
+        "lastName": "Mason", 
+        "position": 4, 
+        "salary": 4100000, 
+        "team": "Philadelphia Flyers", 
+        "teamAbb": "PHI"
+    }, 
+    {
+        "firstName": "Jason", 
+        "id": "8474520", 
+        "lastName": "Garrison", 
+        "position": 3, 
+        "salary": 4500000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Braydon", 
+        "id": "8470601", 
+        "lastName": "Coburn", 
+        "position": 3, 
+        "salary": 4000000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Anton", 
+        "id": "8471873", 
+        "lastName": "Stralman", 
+        "position": 3, 
+        "salary": 4500000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Victor", 
+        "id": "8475167", 
+        "lastName": "Hedman", 
+        "position": 3, 
+        "salary": 5750000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Mattias", 
+        "id": "8460503", 
+        "lastName": "Ohlund", 
+        "position": 3, 
+        "salary": 1000000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "Ben", 
+        "id": "8471750", 
+        "lastName": "Bishop", 
+        "position": 4, 
+        "salary": 5950000, 
+        "team": "Tampa Bay Lightning", 
+        "teamAbb": "TBL"
+    }, 
+    {
+        "firstName": "John", 
+        "id": "8475166", 
+        "lastName": "Tavares", 
+        "position": 1, 
+        "salary": 6000000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Mikhail", 
+        "id": "8471362", 
+        "lastName": "Grabovski", 
+        "position": 1, 
+        "salary": 5000000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Nikolai", 
+        "lastName": "Kulemin", 
+        "salary": 4250000, 
+        "team": "New York Islanders"
+    }, 
+    {
+        "firstName": "Josh", 
+        "id": "8474573", 
+        "lastName": "Bailey", 
+        "position": 0, 
+        "salary": 3500000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Michael", 
+        "id": "8473546", 
+        "lastName": "Grabner", 
+        "position": 2, 
+        "salary": 5000000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Kyle", 
+        "id": "8473449", 
+        "lastName": "Okposo", 
+        "position": 2, 
+        "salary": 4500000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Cal", 
+        "id": "8473504", 
+        "lastName": "Clutterbuck", 
+        "position": 2, 
+        "salary": 3000000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Frans", 
+        "id": "8470144", 
+        "lastName": "Nielsen", 
+        "position": 1, 
+        "salary": 3500000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Casey", 
+        "id": "8475231", 
+        "lastName": "Cizikas", 
+        "position": 1, 
+        "salary": 1200000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8474709", 
+        "lastName": "Martin", 
+        "position": 0, 
+        "salary": 1300000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Bobby", 
+        "id": "8471676", 
+        "lastName": "Ryan", 
+        "position": 2, 
+        "salary": 6500000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Clarke", 
+        "id": "8470667", 
+        "lastName": "MacArthur", 
+        "position": 0, 
+        "salary": 4500000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Milan", 
+        "id": "8470599", 
+        "lastName": "Michalek", 
+        "position": 0, 
+        "salary": 4000000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Kyle", 
+        "id": "8474068", 
+        "lastName": "Turris", 
+        "position": 1, 
+        "salary": 3500000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "David", 
+        "id": "8467330", 
+        "lastName": "Legwand", 
+        "position": 1, 
+        "salary": 3500000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Colin", 
+        "id": "8471862", 
+        "lastName": "Greening", 
+        "position": 0, 
+        "salary": 2750000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Chris", 
+        "id": "8467493", 
+        "lastName": "Neil", 
+        "position": 2, 
+        "salary": 1500000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Johnny", 
+        "id": "8470187", 
+        "lastName": "Boychuk", 
+        "position": 3, 
+        "salary": 7500000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Nick", 
+        "id": "8475181", 
+        "lastName": "Leddy", 
+        "position": 3, 
+        "salary": 4000000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Travis", 
+        "id": "8474612", 
+        "lastName": "Hamonic", 
+        "position": 3, 
+        "salary": 3750000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Calvin", 
+        "id": "8475177", 
+        "lastName": "de Haan", 
+        "position": 3, 
+        "salary": 2400000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Brian", 
+        "id": "8473565", 
+        "lastName": "Strait", 
+        "position": 3, 
+        "salary": 925000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Jaroslav", 
+        "id": "8470860", 
+        "lastName": "Halak", 
+        "position": 4, 
+        "salary": 4750000, 
+        "team": "New York Islanders", 
+        "teamAbb": "NYI"
+    }, 
+    {
+        "firstName": "Zack", 
+        "id": "8474250", 
+        "lastName": "Smith", 
+        "position": 1, 
+        "salary": 2000000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Erik", 
+        "id": "8474578", 
+        "lastName": "Karlsson", 
+        "position": 3, 
+        "salary": 7000000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Marc", 
+        "id": "8470760", 
+        "lastName": "Methot", 
+        "position": 3, 
+        "salary": 4900000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Jared", 
+        "id": "8475174", 
+        "lastName": "Cowen", 
+        "position": 3, 
+        "salary": 3700000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Chris", 
+        "id": "8464956", 
+        "lastName": "Phillips", 
+        "position": 3, 
+        "salary": 2500000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Patrick", 
+        "id": "8474605", 
+        "lastName": "Wiercioch", 
+        "position": 3, 
+        "salary": 2700000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Eric", 
+        "id": "8473468", 
+        "lastName": "Gryba", 
+        "position": 3, 
+        "salary": 1300000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Mark", 
+        "id": "8474697", 
+        "lastName": "Borowiecki", 
+        "position": 3, 
+        "salary": 1200000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Craig", 
+        "id": "8467950", 
+        "lastName": "Anderson", 
+        "position": 4, 
+        "salary": 4750000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Robin", 
+        "id": "8475215", 
+        "lastName": "Lehner", 
+        "position": 4, 
+        "salary": 2025000, 
+        "team": "Ottawa Senators", 
+        "teamAbb": "OTT"
+    }, 
+    {
+        "firstName": "Evgeni", 
+        "id": "8471215", 
+        "lastName": "Malkin", 
+        "position": 1, 
+        "salary": 9500000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Sidney", 
+        "id": "8471675", 
+        "lastName": "Crosby", 
+        "position": 1, 
+        "salary": 12000000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Patric", 
+        "id": "8471887", 
+        "lastName": "Hornqvist", 
+        "position": 2, 
+        "salary": 4250000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Chris", 
+        "id": "8470543", 
+        "lastName": "Kunitz", 
+        "position": 0, 
+        "salary": 4000000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "David", 
+        "id": "8474102", 
+        "lastName": "Perron", 
+        "position": 0, 
+        "salary": 4500000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Pascal", 
+        "id": "8466393", 
+        "lastName": "Dupuis", 
+        "position": 2, 
+        "salary": 4000000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Brandon", 
+        "id": "8474091", 
+        "lastName": "Sutter", 
+        "position": 1, 
+        "salary": 3300000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Paul", 
+        "id": "8471669", 
+        "lastName": "Stastny", 
+        "position": 1, 
+        "salary": 7000000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Alexander", 
+        "id": "8470257", 
+        "lastName": "Steen", 
+        "position": 0, 
+        "salary": 5800000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "David", 
+        "id": "8470655", 
+        "lastName": "Backes", 
+        "position": 1, 
+        "salary": 4750000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "T.J.", 
+        "id": "8471698", 
+        "lastName": "Oshie", 
+        "position": 2, 
+        "salary": 4500000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Patrik", 
+        "id": "8473534", 
+        "lastName": "Berglund", 
+        "position": 1, 
+        "salary": 3700000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Jori", 
+        "id": "8474627", 
+        "lastName": "Lehtera", 
+        "position": 1, 
+        "salary": 2250000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Steve", 
+        "id": "8468505", 
+        "lastName": "Ott", 
+        "position": 1, 
+        "salary": 2600000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Jaden", 
+        "id": "8475768", 
+        "lastName": "Schwartz", 
+        "position": 0, 
+        "salary": 2700000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "id": "8471817", 
+        "lastName": "Reaves", 
+        "position": 2, 
+        "salary": 1125000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Alex", 
+        "id": "8474565", 
+        "lastName": "Pietrangelo", 
+        "position": 3, 
+        "salary": 6500000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Phil", 
+        "id": "8473548", 
+        "lastName": "Kessel", 
+        "position": 2, 
+        "salary": 10000000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "Nathan", 
+        "id": "8470596", 
+        "lastName": "Horton", 
+        "position": 2, 
+        "salary": 6000000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "Joffrey", 
+        "id": "8470207", 
+        "lastName": "Lupul", 
+        "position": 0, 
+        "salary": 6750000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "James", 
+        "lastName": "Van Riemsdyk", 
+        "salary": 4750000, 
+        "team": "Toronto Maple Leafs"
+    }, 
+    {
+        "firstName": "Tyler", 
+        "id": "8475098", 
+        "lastName": "Bozak", 
+        "position": 1, 
+        "salary": 5000000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "Leo", 
+        "id": "8473463", 
+        "lastName": "Komarov", 
+        "position": 1, 
+        "salary": 2950000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "Peter", 
+        "id": "8475180", 
+        "lastName": "Holland", 
+        "position": 1, 
+        "salary": 775000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "Dion", 
+        "id": "8470602", 
+        "lastName": "Phaneuf", 
+        "position": 3, 
+        "salary": 8000000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "Nick", 
+        "id": "8474096", 
+        "lastName": "Spaling", 
+        "position": 1, 
+        "salary": 2200000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Kris", 
+        "id": "8471724", 
+        "lastName": "Letang", 
+        "position": 3, 
+        "salary": 7250000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Rob", 
+        "id": "8467452", 
+        "lastName": "Scuderi", 
+        "position": 3, 
+        "salary": 3000000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Ben", 
+        "id": "8473933", 
+        "lastName": "Lovejoy", 
+        "position": 3, 
+        "salary": 1200000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Marc-Andre", 
+        "id": "8470594", 
+        "lastName": "Fleury", 
+        "position": 4, 
+        "salary": 5750000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Jeff", 
+        "id": "8473553", 
+        "lastName": "Zatkoff", 
+        "position": 4, 
+        "salary": 600000, 
+        "team": "Pittsburgh Penguins", 
+        "teamAbb": "PIT"
+    }, 
+    {
+        "firstName": "Jay", 
+        "id": "8470151", 
+        "lastName": "Bouwmeester", 
+        "position": 3, 
+        "salary": 5600000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Kevin", 
+        "id": "8474031", 
+        "lastName": "Shattenkirk", 
+        "position": 3, 
+        "salary": 4300000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Carl", 
+        "id": "8474125", 
+        "lastName": "Gunnarsson", 
+        "position": 3, 
+        "salary": 3450000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Brian", 
+        "id": "8470880", 
+        "lastName": "Elliott", 
+        "position": 4, 
+        "salary": 2500000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Vladimir", 
+        "id": "8471743", 
+        "lastName": "Sobotka", 
+        "position": 0, 
+        "salary": 2725000, 
+        "team": "St. Louis Blues", 
+        "teamAbb": "STL"
+    }, 
+    {
+        "firstName": "Jake", 
+        "id": "8474581", 
+        "lastName": "Gardiner", 
+        "position": 3, 
+        "salary": 4050000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "Stephane", 
+        "id": "8462196", 
+        "lastName": "Robidas", 
+        "position": 3, 
+        "salary": 3000000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "Roman", 
+        "id": "8471392", 
+        "lastName": "Polak", 
+        "position": 3, 
+        "salary": 3100000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "James", 
+        "id": "8473503", 
+        "lastName": "Reimer", 
+        "position": 4, 
+        "salary": 2000000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8474192", 
+        "lastName": "Frattin", 
+        "position": 2, 
+        "salary": 850000, 
+        "team": "Toronto Maple Leafs", 
+        "teamAbb": "TOR"
+    }, 
+    {
+        "firstName": "Blake", 
+        "id": "8471218", 
+        "lastName": "Wheeler", 
+        "position": 2, 
+        "salary": 5800000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Bryan", 
+        "id": "8473412", 
+        "lastName": "Little", 
+        "position": 1, 
+        "salary": 4750000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Andrew", 
+        "id": "8471217", 
+        "lastName": "Ladd", 
+        "position": 0, 
+        "salary": 4500000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Mathieu", 
+        "id": "8473618", 
+        "lastName": "Perreault", 
+        "position": 1, 
+        "salary": 3000000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Chris", 
+        "id": "8469501", 
+        "lastName": "Thorburn", 
+        "position": 2, 
+        "salary": 1200000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Tobias", 
+        "lastName": "Enstrom", 
+        "salary": 5750000, 
+        "team": "Winnipeg Jets"
+    }, 
+    {
+        "firstName": "Tyler", 
+        "id": "8474574", 
+        "lastName": "Myers", 
+        "position": 3, 
+        "salary": 5000000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Dustin", 
+        "id": "8470834", 
+        "lastName": "Byfuglien", 
+        "position": 3, 
+        "salary": 6000000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Mark", 
+        "id": "8470614", 
+        "lastName": "Stuart", 
+        "position": 3, 
+        "salary": 3300000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Grant", 
+        "id": "8471482", 
+        "lastName": "Clitsome", 
+        "position": 3, 
+        "salary": 2300000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Jay", 
+        "id": "8469531", 
+        "lastName": "Harrison", 
+        "position": 3, 
+        "salary": 1500000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Ondrej", 
+        "id": "8471715", 
+        "lastName": "Pavelec", 
+        "position": 4, 
+        "salary": 4250000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Michael", 
+        "id": "8474636", 
+        "lastName": "Hutchinson", 
+        "position": 4, 
+        "salary": 600000, 
+        "team": "Winnipeg Jets", 
+        "teamAbb": "WPG"
+    }, 
+    {
+        "firstName": "Daniel", 
+        "id": "8467875", 
+        "lastName": "Sedin", 
+        "position": 0, 
+        "salary": 7000000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Henrik", 
+        "id": "8467876", 
+        "lastName": "Sedin", 
+        "position": 1, 
+        "salary": 7000000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Radim", 
+        "id": "8468085", 
+        "lastName": "Vrbata", 
+        "position": 2, 
+        "salary": 5000000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Alexandre", 
+        "id": "8470358", 
+        "lastName": "Burrows", 
+        "position": 2, 
+        "salary": 4000000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Derek", 
+        "id": "8473432", 
+        "lastName": "Dorsett", 
+        "position": 2, 
+        "salary": 3100000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Jannik", 
+        "id": "8471498", 
+        "lastName": "Hansen", 
+        "position": 2, 
+        "salary": 2500000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Chris", 
+        "id": "8470274", 
+        "lastName": "Higgins", 
+        "position": 0, 
+        "salary": 2500000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Alex", 
+        "id": "8471214", 
+        "lastName": "Ovechkin", 
+        "position": 0, 
+        "salary": 10000000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Nicklas", 
+        "id": "8473563", 
+        "lastName": "Backstrom", 
+        "position": 1, 
+        "salary": 6500000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Brooks", 
+        "id": "8469639", 
+        "lastName": "Laich", 
+        "position": 1, 
+        "salary": 4000000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Troy", 
+        "id": "8471426", 
+        "lastName": "Brouwer", 
+        "position": 2, 
+        "salary": 3750000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Jason", 
+        "id": "8466251", 
+        "lastName": "Chimera", 
+        "position": 0, 
+        "salary": 2000000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Michael", 
+        "id": "8475247", 
+        "lastName": "Latta", 
+        "position": 1, 
+        "salary": 575000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Matt", 
+        "id": "8471702", 
+        "lastName": "Niskanen", 
+        "position": 3, 
+        "salary": 5750000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Brooks", 
+        "id": "8468498", 
+        "lastName": "Orpik", 
+        "position": 3, 
+        "salary": 5500000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Nick", 
+        "id": "8474009", 
+        "lastName": "Bonino", 
+        "position": 1, 
+        "salary": 1900000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Zack", 
+        "id": "8475178", 
+        "lastName": "Kassian", 
+        "position": 2, 
+        "salary": 2000000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Alexander", 
+        "id": "8471303", 
+        "lastName": "Edler", 
+        "position": 3, 
+        "salary": 6000000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Kevin", 
+        "id": "8469598", 
+        "lastName": "Bieksa", 
+        "position": 3, 
+        "salary": 2500000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Dan", 
+        "id": "8469465", 
+        "lastName": "Hamhuis", 
+        "position": 3, 
+        "salary": 4250000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Christopher", 
+        "id": "8475690", 
+        "lastName": "Tanev", 
+        "position": 3, 
+        "salary": 3500000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Luca", 
+        "id": "8474579", 
+        "lastName": "Sbisa", 
+        "position": 3, 
+        "salary": 3200000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Ryan", 
+        "id": "8468011", 
+        "lastName": "Miller", 
+        "position": 4, 
+        "salary": 6000000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "Eddie", 
+        "id": "8475663", 
+        "lastName": "Lack", 
+        "position": 4, 
+        "salary": 1300000, 
+        "team": "Vancouver Canucks", 
+        "teamAbb": "VAN"
+    }, 
+    {
+        "firstName": "John", 
+        "id": "8474590", 
+        "lastName": "Carlson", 
+        "position": 3, 
+        "salary": 4000000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Karl", 
+        "id": "8473991", 
+        "lastName": "Alzner", 
+        "position": 3, 
+        "salary": 2800000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Dmitry", 
+        "id": "8475200", 
+        "lastName": "Orlov", 
+        "position": 3, 
+        "salary": 2250000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }, 
+    {
+        "firstName": "Justin", 
+        "id": "8471251", 
+        "lastName": "Peters", 
+        "position": 4, 
+        "salary": 950000, 
+        "team": "Washington Capitals", 
+        "teamAbb": "WSH"
+    }
+]

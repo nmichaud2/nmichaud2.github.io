@@ -1,3 +1,60 @@
 .mainSection {
   margin : 16px;
+  width : 850px;
+}
+
+.positionSection {
+}
+
+.rosterSection {
+  margin-top : 32px;
+}
+
+.playerImage {
+  width: 40px;
+  height: 60px;
+  margin-top: -10px;
+}
+
+.playerImageContainer {
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-right: 16px;
+}
+
+.playerItem {
+  margin-bottom : 16px
+}
+
+.playerSalary {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.6em;
+  color: rgba(0,0,0,0.54);
+}
+
+.playerName {
+  color: rgba(0,0,0,0.87);
+  line-height: 1.2em !important;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: .01em;
+}
+
+.positionName {
+  color: rgba(0,0,0,0.54);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1em;
+  margin-bottom: 8px;
+}
+
+md-toolbar md-icon.md-default-theme {
+	color: white;
+}
+
+.buttonBar {
+  margin-top: 16px;
 }
