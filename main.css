@@ -4,6 +4,7 @@
 }
 
 .positionSection {
+  min-height : 42px;
 }
 
 .rosterSection {
@@ -24,8 +25,14 @@
   margin-right: 16px;
 }
 
+.defensePlayerItem {
+  width : 50%;
+  float : left;
+  margin-bottom : 16px;
+}
+
 .playerItem {
-  margin-bottom : 16px
+  margin-bottom : 16px;
 }
 
 .playerSalary {

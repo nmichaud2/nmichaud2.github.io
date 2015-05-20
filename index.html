@@ -83,12 +83,12 @@
 							</div>
 						</div>
 
-						<div layout-gt-md="row" class="rosterSection" ng-show='rosterPlayers.length > 0'>
-							<div flex class="positionSection">
+						<div layout-gt-md="row" layout-align="center start" class="rosterSection" ng-show='rosterPlayers.length > 0'>
+							<div flex=66 class="positionSection">
 								<div class="positionName">
 									<span>Defense</span>
 								</div>
-								<div layout="row" class="playerItem" ng-repeat="player in defensemen">
+								<div layout="row" class="defensePlayerItem" ng-repeat="player in defensemen">
 									<div class="playerImageContainer">
 										<img class="playerImage" ng-src="http://3.cdn.nhle.com/photos/mugs/{{player.id}}.jpg" border="0"/>
 									</div>
